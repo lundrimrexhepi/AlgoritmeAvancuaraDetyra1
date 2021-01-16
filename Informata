@@ -1,0 +1,3 @@
+Kompleksiteti kohor :big O (Reshtat * log (kolonat)).
+Ne përsërisim për gjysmën e numrit të kolonave. Në çdo thirrje rekursive, ne në mënyrë lineare kërkojmë maksimumin në kolonën aktuale të mesit.
+Kompleksiteti Hapësinor : O (kolonat / 2) për Thirrjen  Rekursive
